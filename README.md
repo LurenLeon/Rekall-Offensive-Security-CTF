@@ -32,7 +32,7 @@ Table 1: Defined Objectives
 ## <a name="_tgl1cd57dphe"></a>Penetration Testing Methodology
 
 ### <a name="_17dp8vu"></a>**Reconnaissance**
-### <a name="_3lzx45vd2jl6"></a>** 
+### <a name="_3lzx45vd2jl6"></a>
 We begin assessments by checking for any passive (open source) data that may assist the assessors with their tasks. If internal, the assessment team will perform active recon using tools such as Nmap and Bloodhound.
 
 ### <a name="_3rdcrjn"></a>**Identification of Vulnerabilities and Services**
