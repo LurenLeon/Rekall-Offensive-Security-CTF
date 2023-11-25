@@ -109,4 +109,6 @@ The following summary tables represent an overview of the assessment findings fo
 **[Windows Vulnerabilities](https://github.com/LurenLeon/Rekall-Offensive-Security-CTF/blob/main/Windows/CTF%20Day%203_%20Windows%20Servers/CTF%20Day%203_%20Windows%20Servers.md)**
 
 ## Web App Vulnerabilities 
+**[Web App Day 1](https://github.com/LurenLeon/Rekall-Offensive-Security-CTF/blob/main/Web%20Application/CTF%20Day%201%20Web%20App%20Part%201/CTF%20Day%201%20Web%20App%20Part%201.md)**
+**[Web App Day 2](https://github.com/LurenLeon/Rekall-Offensive-Security-CTF/blob/main/Web%20Application/CTF%20Day%201%20Web%20App%20Part%202/CTF%20Day%201%20Web%20App%20Part%202.md)**
 
