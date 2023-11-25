@@ -100,3 +100,12 @@ The following summary tables represent an overview of the assessment findings fo
 | High               | 4     |
 | Medium             | 2     |
 | Low                | 2     |
+
+
+## Linux Vulnerabilities 
+**[Linux CTF Vulnerabilities](https://github.com/LurenLeon/Rekall-Offensive-Security-CTF/blob/main/Linux/CTF%20Day%202_%20Linux/CTF%20Day%202_%20Linux.md)**
+
+## Windows Vulnerabilities
+
+## Web App Vulnerabilities 
+
