@@ -103,10 +103,10 @@ The following summary tables represent an overview of the assessment findings fo
 
 
 ## Linux Vulnerabilities 
-**[Linux CTF Vulnerabilities](https://github.com/LurenLeon/Rekall-Offensive-Security-CTF/blob/main/Linux/CTF%20Day%202_%20Linux/CTF%20Day%202_%20Linux.md)**
+- **[Linux CTF Vulnerabilities](https://github.com/LurenLeon/Rekall-Offensive-Security-CTF/blob/main/Linux/CTF%20Day%202_%20Linux/CTF%20Day%202_%20Linux.md)**
 
 ## Windows Vulnerabilities
-**[Windows Vulnerabilities](https://github.com/LurenLeon/Rekall-Offensive-Security-CTF/blob/main/Windows/CTF%20Day%203_%20Windows%20Servers/CTF%20Day%203_%20Windows%20Servers.md)**
+- **[Windows Vulnerabilities](https://github.com/LurenLeon/Rekall-Offensive-Security-CTF/blob/main/Windows/CTF%20Day%203_%20Windows%20Servers/CTF%20Day%203_%20Windows%20Servers.md)**
 
 ## Web App Vulnerabilities 
 - **[Web App Day 1](https://github.com/LurenLeon/Rekall-Offensive-Security-CTF/blob/main/Web%20Application/CTF%20Day%201%20Web%20App%20Part%201/CTF%20Day%201%20Web%20App%20Part%201.md)**
